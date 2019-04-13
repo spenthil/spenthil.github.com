@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/sen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://spenthil.com
+  * I am sen (https://keybase.io/sen) on keybase.
+  * I have a public key ASAI2klc6Ew6TiLddaLAGYVeJ1JU-il7zrOy_lU4hnDeZwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012008da495ce84c3a4e22dd75a2c019855e275254fa297bceb3b2fe55388670de670a",
+            "host": "keybase.io",
+            "kid": "012008da495ce84c3a4e22dd75a2c019855e275254fa297bceb3b2fe55388670de670a",
+            "uid": "64fd299554bf714b4bddcc35e7e28219",
+            "username": "sen"
+        },
+        "service": {
+            "hostname": "spenthil.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.9"
+    },
+    "ctime": 1454626807,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1454626776,
+        "hash": "8f6ff0c5d25d1f62bf47f703ae233c92ae14fba8433ee714df375cf1bd93d3c7be3a64197aedd06810255ac8a0bd21300102737ca00e5ff00720478586fb325c",
+        "seqno": 362337
+    },
+    "prev": "5f68905015f7b4e06fe7fb6dc7d7b21a7455473f001bed1fc42c8be7c6fd199e",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCNpJXOhMOk4i3XWiwBmFXidSVPope86zsv5VOIZw3mcKp3BheWxvYWTFAu17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDhkYTQ5NWNlODRjM2E0ZTIyZGQ3NWEyYzAxOTg1NWUyNzUyNTRmYTI5N2JjZWIzYjJmZTU1Mzg4NjcwZGU2NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDhkYTQ5NWNlODRjM2E0ZTIyZGQ3NWEyYzAxOTg1NWUyNzUyNTRmYTI5N2JjZWIzYjJmZTU1Mzg4NjcwZGU2NzBhIiwidWlkIjoiNjRmZDI5OTU1NGJmNzE0YjRiZGRjYzM1ZTdlMjgyMTkiLCJ1c2VybmFtZSI6InNlbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic3BlbnRoaWwuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC45In0sImN0aW1lIjoxNDU0NjI2ODA3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTQ2MjY3NzYsImhhc2giOiI4ZjZmZjBjNWQyNWQxZjYyYmY0N2Y3MDNhZTIzM2M5MmFlMTRmYmE4NDMzZWU3MTRkZjM3NWNmMWJkOTNkM2M3YmUzYTY0MTk3YWVkZDA2ODEwMjU1YWM4YTBiZDIxMzAwMTAyNzM3Y2EwMGU1ZmYwMDcyMDQ3ODU4NmZiMzI1YyIsInNlcW5vIjozNjIzMzd9LCJwcmV2IjoiNWY2ODkwNTAxNWY3YjRlMDZmZTdmYjZkYzdkN2IyMWE3NDU1NDczZjAwMWJlZDFmYzQyYzhiZTdjNmZkMTk5ZSIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQPoVz1I0Ic1RJ1cBSAkUVBSge53gTvWgRFgJqcArn2Gt8Wj7ejQUyuF16XJ5THajk3aMg7ecYGUKJ+XSSKbtFgWoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sen
+
+==================================================================
