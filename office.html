@@ -1,23 +1,30 @@
+<!DOCTYPE html>
+<html>
 <head>
+    <title>Sen's Office</title>
+
     <!-- for optimal display on high DPI devices -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, width=device-width" />
+    <meta name="apple-mobile-web-app-capable" content="yes"></meta>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"></meta>
+    <meta name="theme-color" content="#000">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core/index.min.css" />
 </head>
 
 <style>
 body {
-    background: 000;
     overflow-x: hidden;
     overflow-y: hidden;
-    width: 100%;
-    height: 100%;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+#viewer {
 }
 </style>
 
-<!-- the viewer container must have a defined size -->
-<div id="viewer" style="width: 105vw; height: 105vh;"></div>
+<body></body>
 
 <script type="importmap">
     {
@@ -27,13 +34,13 @@ body {
         }
     }
 </script>
-
 <script type="module">
     import { Viewer } from '@photo-sphere-viewer/core';
 
     const viewer = new Viewer({
-        container: document.querySelector('#viewer'),
+        container: document.querySelector('body'),
         panorama: 'office.jpg',
         navbar: false,
     });
 </script>
+</html>
